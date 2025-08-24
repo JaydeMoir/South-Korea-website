@@ -1,0 +1,85 @@
+main{width: 80%; margin: 0 auto;}
+map{margin-top: 40px; width: 400px; float:right}
+nav{text-align: center;}
+nav a {text-decoration: none;display: inline-block;width: 300px;padding:20px 0px; font-weight: bold; color: rgb(11, 139, 212);}
+nav a:hover{color: rgb(255, 255, 255);background-color: rgb(163, 15, 15);}
+
+body{background-color:rgb(255, 255, 255); font-family: 'Arial', 'Courier New', Courier, monospace;}
+header{background-color: rgb(0, 0, 0);}
+
+h1{font-size: 40px; color:rgb(11, 139, 212); text-align: center;}
+h2{font-size: 30px; color:rgb(11, 139, 212); text-align: left;}  
+h3{font-size: 20px; color:rgb(0, 0, 0); text-align: left;}
+h4{font-size: 30px;color:rgb(0, 0, 0); text-align: center;}
+h5{font-size: 100%; color:rgb(0, 0, 0); text-align: center;}
+h6{font-size: 90%;color:rgb(0, 0, 0); text-align: center;}
+
+
+
+p{text-align: left; color: rgb(0, 0, 0);}
+
+P{text-align: left; color: rgb(0, 0, 0);}
+
+
+
+#main_image{width: 30%;}
+#flag_image{width: 20%;}
+#capital_image{width: 25%;}
+#official_image{width: 10%;}
+#health_image{width: 30%;}
+#area_image{width: 30%;}
+#Population_image{width: 35%;}
+#currency_image{width: 20%;}
+#time_image{width: 50%;}
+#call_image{width: 25%;}
+
+
+
+
+#Food_image{width: 40%;}
+#Streetfood_image{width: 30%;}
+#Populardrinks{width: 30%;}
+
+
+
+
+#Deoksugungpalace_image{width: 45%;}
+#Wongaksapagoda_image{width: 25%;}
+#Changdeokgung_image{width: 50%;}
+#Namhansanseong_image{width: 30%;}
+#G-Tower_image{width: 50%;}
+#Gyeongbokgung_image{width: 20%;}
+#Namsantower_image{width: 50%;}
+#NamsangolHanokVillage_image{width: 50%;}
+#BusanTower_image{width: 40%;}
+#Monument_image{width: 20%;}
+
+#Lotteworldtower_image{width: 30%;}
+#Geumgoksatemple_image{width: 30%;}
+#CraftVillage_image{width: 35%;}
+#Gwanghwamun_image{width: 20%;}
+
+
+
+
+
+#Koreanpainting_image{width: 20%;}
+#Minhwafolk_image{width: 20%;}
+#GoryeoBuddhist_image{width: 20%;}
+#TrueViewLandscapes_image{width: 20%;}
+#Hwajohwa_image{width: 20%;}
+#Munbangdo_image{width: 20%;}
+#JoseonDynasty_image{width: 20%;}
+#TenSymbolsofLongevity_image{width: 20%;}
+#GenrePainting_image{width: 20%;}
+#TraditionsandCulture_image{width: 30%;}
+
+
+
+
+
+section{border-top: 2px solid; color: rgb(0, 0, 0);}
+.icon{width: 10%; padding-top: 40px; padding-bottom: 10px;}
+
+footer{background-color: rgb(11, 139, 212); padding: 10px; margin: 0px auto;}
+.rule_below{border-top: 2px solid; color: rgb(255, 255, 255); }
